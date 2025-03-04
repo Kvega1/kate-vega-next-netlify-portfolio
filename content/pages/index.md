@@ -98,7 +98,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: ''
         url: /blog
     posts: []
     showDate: true
