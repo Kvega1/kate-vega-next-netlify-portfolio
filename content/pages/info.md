@@ -57,6 +57,9 @@ sections:
       - type: Label
         label: Personalization
         url: ''
+      - type: Label
+        label: A/B Testing
+        url: ''
   - type: DividerSection
     styles:
       self:
