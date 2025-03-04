@@ -36,6 +36,9 @@ sections:
       - type: Label
         label: Builder.io
         url: ''
+      - type: Label
+        label: Salesforce Commerce Cloud
+        url: ''
   - type: DividerSection
     styles:
       self:
