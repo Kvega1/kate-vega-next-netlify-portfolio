@@ -53,7 +53,7 @@ sections:
     subtitle: 'Partners:'
     images:
       - type: ImageBlock
-        url: /images/kvd-adobe-logo.webp
+        url: /images/logo3.svg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
