@@ -50,7 +50,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Partners:'
     images:
       - type: ImageBlock
         url: /images/kvd-adobe-logo.webp
