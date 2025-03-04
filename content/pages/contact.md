@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Contact
 sections:
   - type: HeroSection
     text: |+
