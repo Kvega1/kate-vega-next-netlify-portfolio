@@ -48,6 +48,9 @@ sections:
       - type: Label
         label: Pinterest
         url: ''
+      - type: Label
+        label: SEO
+        url: ''
   - type: DividerSection
     styles:
       self:
