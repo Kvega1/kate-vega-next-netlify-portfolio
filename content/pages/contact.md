@@ -2,41 +2,6 @@
 type: PageLayout
 title: Contact
 sections:
-  - type: HeroSection
-    text: |+
-      ## About
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Kate Vega - Portrait Image - Custom.jpg
-      altText: Hero image
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: DividerSection
     styles:
       self:
