@@ -1,227 +1,74 @@
 ---
 type: PageLayout
-title: About
+title: Resume
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/Kate Vega - Background Image - Custom.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: HTML5
       - type: Label
-        label: React
+        label: CSS3
       - type: Label
-        label: Microsoft Office
+        label: Adobe Creative Cloud
+      - type: Label
+        label: Figma
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Webflow
       - type: Label
-        label: Pancakes
+        label: Shopify
       - type: Label
-        label: C++
+        label: Hubspot
       - type: Label
-        label: Swift
+        label: React
+        url: ''
+      - type: Label
+        label: Builder.io
+        url: ''
+      - type: Label
+        label: Salesforce Commerce Cloud
+        url: ''
+      - type: Label
+        label: Adobe Experience Manager
+        url: ''
+      - type: Label
+        label: Meta
+        url: ''
+      - type: Label
+        label: Pinterest
+        url: ''
+      - type: Label
+        label: SEO
+        url: ''
+      - type: Label
+        label: Google Analytics
+        url: ''
+      - type: Label
+        label: Personalization
+        url: ''
+      - type: Label
+        label: A/B Testing
+        url: ''
+      - type: Label
+        label: CRM
+        url: ''
+      - type: Label
+        label: Email Marketing
+        url: ''
+      - type: Label
+        label: Klaviyo
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +86,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      design\@katevega.com
   - type: DividerSection
     styles:
       self:
@@ -257,26 +104,26 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Digital Art Director @ JOANN 
 
-          **2018-2021**
+          **2016-2022**
 
-          * fullstack at this startup
+          *   Graphic Design
+          *   Web Design & Development
+          *   Photography
+          *   Digital Marketing
 
-          **2015**
+          **2015-2016**
 
-          * senior front-end at this place
+          *   Web Designer @ Mason Companies
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at marketing agency
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +134,37 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2009-2012**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Graduated Summa Cum Laude
 
-          * react certificate somewhere
+          *   Kent State University
 
-          **2011**
+          *   BTAS Bachelor of Technical and Applied Sciences in Computer
+          Technology with a Concentration in Web Applications Development
 
-          * my highschool
+
+          **2009-2010**
+
+
+          *   Graduated Summa Cum Laude
+
+          *   Kent State University
+
+          *   A.A.B. Associate and Applied Business in Computer Technology with
+          a Concentration in Web Scripting and Multimedia Design
+
+
+          **2001-2003**
+
+
+          *   Youngstown State University
+
+          *   Pursued a B.A. Bachelors of Art in graphic design and visual
+          communications.
+
         styles:
           self:
             textAlign: left
@@ -347,7 +213,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Drop me a line...
     colors: colors-f
     form:
       type: FormBlock
@@ -382,11 +248,11 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Sign me up to receive updates
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Contact Me
       styles:
         submitLabel:
           textAlign: center
