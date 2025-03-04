@@ -59,7 +59,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:design@katevega.com",
+                "url": "/contact",
                 "altText": ""
             },
             {
