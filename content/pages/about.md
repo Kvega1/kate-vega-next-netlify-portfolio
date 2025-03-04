@@ -57,7 +57,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/kvd-bigcommerce-logo.webp
+        url: /images/kvd-webflow-logo.webp
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
