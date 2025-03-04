@@ -384,7 +384,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Contact Me
       styles:
         submitLabel:
           textAlign: center
