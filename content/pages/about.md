@@ -65,7 +65,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/kvd-google-logo.webp
+        url: /images/Logo 4.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
