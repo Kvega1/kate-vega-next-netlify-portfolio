@@ -69,7 +69,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/kvd-shopify-logo.webp
+        url: /images/Logo 5.png
         altText: Logo five
         caption: Logo five
     colors: colors-f
