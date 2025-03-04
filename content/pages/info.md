@@ -29,7 +29,7 @@ sections:
       - type: Label
         label: Shopify
       - type: Label
-        label: Swift
+        label: Hubspot
   - type: DividerSection
     styles:
       self:
