@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Kate Vega - Background Image - Custom.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Kate Vega
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’m a designer, developer, art director, photographer, content creator,
+      digital marketing consultant with a unique blend of creative, business and
+      technical experience.
     styles:
       self:
         height: auto
@@ -47,22 +45,27 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/Kate Vega - Portrait Image - Custom.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        label: ''
+        url: /
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-a
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -84,21 +87,18 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: ''
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: ''
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: ''
         url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -130,7 +130,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Nice to meet you. Let's grab a coffee and discuss your next project
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -168,7 +168,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Contact Me
       styles:
         submitLabel:
           textAlign: center
