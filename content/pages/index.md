@@ -135,7 +135,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Let's grab a coffee and discuss your next project
+    title: Nice to meet you. Let's grab a coffee and discuss your next project
     form:
       type: FormBlock
       elementId: sign-up-form
