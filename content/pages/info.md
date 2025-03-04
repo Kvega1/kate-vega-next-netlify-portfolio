@@ -209,7 +209,7 @@ sections:
       - type: Label
         label: CSS3
       - type: Label
-        label: Microsoft Office
+        label: Figma
       - type: Label
         label: Next.js
       - type: Label
