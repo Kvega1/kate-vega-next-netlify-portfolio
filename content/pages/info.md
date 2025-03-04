@@ -345,7 +345,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Drop me a line...
     colors: colors-f
     form:
       type: FormBlock
