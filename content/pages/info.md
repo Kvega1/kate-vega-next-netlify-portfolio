@@ -30,6 +30,9 @@ sections:
         label: Shopify
       - type: Label
         label: Hubspot
+      - type: Label
+        label: React
+        url: ''
   - type: DividerSection
     styles:
       self:
