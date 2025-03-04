@@ -4,7 +4,7 @@ title: About
 sections:
   - type: HeroSection
     text: |+
-      ##  
+      ## About
 
     actions: []
     media:
