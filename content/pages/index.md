@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Kate Vega - Portrait Image - Custom.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
