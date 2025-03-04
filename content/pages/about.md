@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Resume
+title: About
 sections:
   - type: HeroSection
     text: |+
