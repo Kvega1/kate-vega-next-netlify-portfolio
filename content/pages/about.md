@@ -114,7 +114,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Behance
             url: 'https://github.com/'
         styles:
           self:
