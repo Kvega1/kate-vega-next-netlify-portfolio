@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Webflow
       - type: Label
         label: C++
       - type: Label
