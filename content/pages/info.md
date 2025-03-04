@@ -66,6 +66,9 @@ sections:
       - type: Label
         label: Email Marketing
         url: ''
+      - type: Label
+        label: Klaviyo
+        url: ''
   - type: DividerSection
     styles:
       self:
