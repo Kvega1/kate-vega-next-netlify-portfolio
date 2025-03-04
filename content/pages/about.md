@@ -101,7 +101,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Logo eleven
-        caption: Caption of the image
+        caption: Logo eleven
         elementId: ''
     colors: colors-f
     spacing: 3
