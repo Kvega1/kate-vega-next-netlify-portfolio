@@ -86,7 +86,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Logo eight
-        caption: Caption of the image
+        caption: Logo eight
         elementId: ''
     colors: colors-f
     spacing: 3
