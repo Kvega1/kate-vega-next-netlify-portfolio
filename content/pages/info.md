@@ -63,6 +63,9 @@ sections:
       - type: Label
         label: CRM
         url: ''
+      - type: Label
+        label: Email Marketing
+        url: ''
   - type: DividerSection
     styles:
       self:
