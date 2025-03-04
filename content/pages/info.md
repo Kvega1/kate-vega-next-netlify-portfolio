@@ -27,7 +27,7 @@ sections:
       - type: Label
         label: Webflow
       - type: Label
-        label: JaveScript
+        label: Shopify
       - type: Label
         label: Swift
   - type: DividerSection
