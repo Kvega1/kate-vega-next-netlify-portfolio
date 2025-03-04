@@ -15,8 +15,9 @@ sections:
     backgroundSize: full
     title: Kate Vega
     subtitle: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a designer, developer, art director, photographer, content creator,
+      digital marketing consultant with a unique blend of creative, business and
+      technical experience.
     styles:
       self:
         height: auto
