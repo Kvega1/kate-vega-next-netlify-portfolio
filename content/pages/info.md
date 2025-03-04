@@ -237,7 +237,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      <design@katevega.com>
+      [design@katevega.com](/)
   - type: DividerSection
     styles:
       self:
