@@ -205,7 +205,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: HTML
+        label: HTML5
       - type: Label
         label: CSS3
       - type: Label
