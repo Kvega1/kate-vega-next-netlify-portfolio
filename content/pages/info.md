@@ -51,6 +51,9 @@ sections:
       - type: Label
         label: SEO
         url: ''
+      - type: Label
+        label: Google Analytics
+        url: ''
   - type: DividerSection
     styles:
       self:
