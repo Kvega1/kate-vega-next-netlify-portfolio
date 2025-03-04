@@ -39,6 +39,9 @@ sections:
       - type: Label
         label: Salesforce Commerce Cloud
         url: ''
+      - type: Label
+        label: Adobe Experience Manager
+        url: ''
   - type: DividerSection
     styles:
       self:
