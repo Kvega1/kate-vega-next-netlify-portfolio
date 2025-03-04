@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Kate Vega - Background Image - Custom.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Drop me a line
     colors: colors-f
     form:
       type: FormBlock
@@ -66,11 +66,11 @@ bottomSections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Sign me up to receive updates
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Contact Me
       styles:
         submitLabel:
           textAlign: center
