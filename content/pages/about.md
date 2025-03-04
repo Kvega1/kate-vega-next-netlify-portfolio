@@ -115,7 +115,7 @@ sections:
         actions:
           - type: Link
             label: Behance
-            url: 'https://github.com/'
+            url: 'https://www.behance.net/katherinevega3/project'
         styles:
           self:
             textAlign: left
