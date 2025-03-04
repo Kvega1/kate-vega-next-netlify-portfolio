@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/home-project-nexteon-1920x1080px.webp
   altText: Project image
 ---
 
