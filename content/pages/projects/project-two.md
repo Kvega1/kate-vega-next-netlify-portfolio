@@ -5,9 +5,13 @@ colors: colors-a
 date: '2021-12-20'
 client: SWELL SKIN
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Visually-stunning product design, brand identity, and marketing creative
+  builds strong consumer brands, and strong brands sell. Carefully crafted and
+  sourced content that engages the customer across multiple touchpoints and
+  throughout the lifecycle, builds brand awareness and loyalty. Site
+  optimization and design, paired with a well-planned strategy aimed at
+  delivering the right message, to the right audience, at the right time, drives
+  conversions and increases sales.
 featuredImage:
   type: ImageBlock
   url: /images/home-project-swell-skin-1920x1080px-1.webp
