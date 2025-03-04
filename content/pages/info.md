@@ -60,6 +60,9 @@ sections:
       - type: Label
         label: A/B Testing
         url: ''
+      - type: Label
+        label: CRM
+        url: ''
   - type: DividerSection
     styles:
       self:
