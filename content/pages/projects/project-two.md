@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/home-project-swell-skin-1920x1080px-1.webp
   altText: Project image
 ---
 
