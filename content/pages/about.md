@@ -91,7 +91,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Logo nine
-        caption: Caption of the image
+        caption: Logo nine
         elementId: ''
     colors: colors-f
     spacing: 3
