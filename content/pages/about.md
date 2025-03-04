@@ -96,7 +96,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Logo ten
-        caption: Caption of the image
+        caption: Logo ten
         elementId: ''
     colors: colors-f
     spacing: 3
