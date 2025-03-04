@@ -74,7 +74,7 @@ sections:
         caption: Logo five
       - type: ImageBlock
         url: /images/Logo 6.png
-        altText: altText of the image
+        altText: Logo 6
         caption: Caption of the image
         elementId: ''
     colors: colors-f
