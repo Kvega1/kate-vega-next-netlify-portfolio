@@ -78,8 +78,7 @@ sections:
         caption: Logo 6
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Logo 7.png
         altText: Logo seven
         caption: Caption of the image
         elementId: ''
