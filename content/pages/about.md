@@ -74,7 +74,7 @@ sections:
         caption: Logo five
       - type: ImageBlock
         url: /images/Logo 6.png
-        altText: Logo 6
+        altText: Logo six
         caption: Logo 6
         elementId: ''
       - type: ImageBlock
