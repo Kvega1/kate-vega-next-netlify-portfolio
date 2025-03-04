@@ -93,8 +93,7 @@ sections:
         caption: Logo nine
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Logo 10.png
         altText: Logo ten
         caption: Logo ten
         elementId: ''
