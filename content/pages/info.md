@@ -19,7 +19,7 @@ sections:
       - type: Label
         label: CSS3
       - type: Label
-        label: Figma
+        label: Adobe Creative Cloud
       - type: Label
         label: Next.js
       - type: Label
