@@ -21,7 +21,7 @@ sections:
       - type: Label
         label: Adobe Creative Cloud
       - type: Label
-        label: Next.js
+        label: Figma
       - type: Label
         label: Netlify
       - type: Label
