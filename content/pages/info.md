@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Webflow
       - type: Label
-        label: C++
+        label: JaveScript
       - type: Label
         label: Swift
   - type: DividerSection
