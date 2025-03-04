@@ -61,7 +61,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/kvd-godaddy-pro-logo.webp
+        url: /images/kvd-klaviyo-logo.webp
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
