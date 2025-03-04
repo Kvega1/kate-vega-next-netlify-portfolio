@@ -5,9 +5,13 @@ colors: colors-a
 date: '2022-01-22'
 client: NEXTEON Technologies
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Polished and professional brand design, consistent across channels, sells
+  products, services, and reputation. Careful consideration and implementation
+  of marketing strategies and brand identities that resonate with
+  industry-specific audiences and build trust and authority in niche markets.
+  Project confidence and lasting brand power with streamlined design and content
+  marketing strategies that result in longer, more loyal and more profitable
+  business relationships.
 featuredImage:
   type: ImageBlock
   url: /images/home-project-nexteon-1920x1080px.webp
