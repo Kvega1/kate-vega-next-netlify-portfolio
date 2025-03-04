@@ -255,26 +255,26 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Digital Art Director @ JOANN 
 
-          **2018-2021**
+          **2016-2022**
 
-          * fullstack at this startup
+          *   Graphic Design
+          *   Web Design & Development
+          *   Photography
+          *   Digital Marketing
 
-          **2015**
+          **2015-2016**
 
-          * senior front-end at this place
+          *   Web Designer @ Mason Companies
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at marketing agency
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
