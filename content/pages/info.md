@@ -285,18 +285,37 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2009-2012**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Graduated Summa Cum Laude
 
-          * react certificate somewhere
+          *   Kent State University
 
-          **2011**
+          *   BTAS Bachelor of Technical and Applied Sciences in Computer
+          Technology with a Concentration in Web Applications Development
 
-          * my highschool
+
+          **2009-2010**
+
+
+          *   Graduated Summa Cum Laude
+
+          *   Kent State University
+
+          *   A.A.B. Associate and Applied Business in Computer Technology with
+          a Concentration in Web Scripting and Multimedia Design
+
+
+          **2001-2003**
+
+
+          *   Youngstown State University
+
+          *   Pursued a B.A. Bachelors of Art in graphic design and visual
+          communications.
+
         styles:
           self:
             textAlign: left
