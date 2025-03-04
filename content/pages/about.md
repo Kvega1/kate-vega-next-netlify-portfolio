@@ -226,12 +226,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    subtitle: 'Contact:'
-    text: |
-      design\@katevega.com
   - type: DividerSection
     styles:
       self:
