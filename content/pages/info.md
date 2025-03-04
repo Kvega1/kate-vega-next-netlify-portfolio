@@ -42,6 +42,9 @@ sections:
       - type: Label
         label: Adobe Experience Manager
         url: ''
+      - type: Label
+        label: Meta
+        url: ''
   - type: DividerSection
     styles:
       self:
