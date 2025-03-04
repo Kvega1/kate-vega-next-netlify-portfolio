@@ -61,7 +61,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/kvd-klaviyo-logo.webp
+        url: /images/Logo 3.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
