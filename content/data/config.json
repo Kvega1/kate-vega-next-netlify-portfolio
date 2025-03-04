@@ -22,22 +22,33 @@
                 "type": "Link",
                 "label": "Resume",
                 "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "icon": "twitter"
-            },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/katevega/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -51,14 +62,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:design@katevega.com",
+                "url": "/contact",
                 "altText": ""
             },
             {
