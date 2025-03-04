@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: UX/UI Project
 colors: colors-a
-date: '2025-01-15'
+date: '0002-01-15'
 client: JOANN Stores
 description: ''
 featuredImage:
