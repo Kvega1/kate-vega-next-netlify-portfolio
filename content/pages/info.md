@@ -18,7 +18,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Kate Vega - Portrait Image - Custom.jpg
       altText: Hero image
     styles:
       self:
