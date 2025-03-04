@@ -162,26 +162,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: HTML5
-      - type: Label
-        label: CSS3
-      - type: Label
-        label: Figma
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Webflow
-      - type: Label
-        label: JaveScript
-      - type: Label
-        label: Swift
-    colors: colors-f
   - type: DividerSection
     styles:
       self:
