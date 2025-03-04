@@ -59,7 +59,7 @@ sections:
     actions:
       - type: Link
         label: ''
-        url: /projects
+        url: /
     showDate: false
     showDescription: true
     showFeaturedImage: true
