@@ -45,6 +45,9 @@ sections:
       - type: Label
         label: Meta
         url: ''
+      - type: Label
+        label: Pinterest
+        url: ''
   - type: DividerSection
     styles:
       self:
