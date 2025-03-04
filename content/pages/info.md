@@ -23,7 +23,7 @@ sections:
       - type: Label
         label: Figma
       - type: Label
-        label: Netlify
+        label: Next.js
       - type: Label
         label: Webflow
       - type: Label
