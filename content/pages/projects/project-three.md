@@ -133,13 +133,46 @@ bottomSections:
       actions:
         justifyContent: flex-start
 ---
-Graphic Design
+## Graphic Design
 
 Brand identity design in-line with the current competitive landscape of emerging tech in the aviation & aerospace industries. Brand and product logos, trade show and print materials.
 
 ![](/images/ca0c3c146612605.62b359211258b.jpg)
 
 ![](/images/NEXTEON-Grapbic-Design-Event-Banners-KV.png)
+
+
+
+## Product Mockups
+
+Software user interface mockups highlighting features and benefits of the products.
+
+![](/images/b37f6e146612605.62c6fbfdd78ae.jpg)
+
+![](/images/475064146612605.62c5b9e7bd4d2.jpg)
+
+![](/images/9fc898146612605.62c5b9e7bd03e.jpg)
+
+
+
+## Web Design
+
+Industry-specific Webflow site designed for aerospace technology startup. 
+[www.nexteon.aero](https://nexteon.aero)
+
+![](/images/03925e146612605.62b3592111898.jpg)
+
+## Brand Redesign
+
+A forward-focused and eco-friendly brand identity design for an aerospace tech startup with careful use of color to evoke trust and authority within a highly regulated industry.
+
+![](/images/c5c7b5146612605.62c5d1a6299a3.png)
+
+![](/images/ee94b1146612605.62b35921112ec.jpg)
+
+
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
