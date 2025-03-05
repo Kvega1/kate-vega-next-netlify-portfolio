@@ -124,27 +124,89 @@ bottomSections:
       actions:
         justifyContent: flex-start
 ---
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-09cd518 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09cd518" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a32f41" data-id="8a32f41" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="vlt-animate-element elementor-element elementor-element-922ef62 elementor-widget elementor-widget-heading animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 100ms;" data-id="922ef62" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Graphic Design</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-302cb45 elementor-widget elementor-widget-spacer" data-id="302cb45" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"none"}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="vlt-animate-element elementor-element elementor-element-908df26 elementor-widget elementor-widget-text-editor animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 100ms;" data-id="908df26" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Product Packaging<br>Photography<br>POP Cards</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-37c6e32" data-id="37c6e32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="vlt-animate-element elementor-element elementor-element-ae18721 elementor-widget elementor-widget-heading animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 200ms;" data-id="ae18721" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">WEB DESIGN</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9b86a80 elementor-widget elementor-widget-spacer" data-id="9b86a80" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"none"}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="vlt-animate-element elementor-element elementor-element-be7e2f1 elementor-widget elementor-widget-text-editor animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 200ms;" data-id="be7e2f1" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Shopify<br>Theme Development<br>Custom Web Graphics</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2a6efa1" data-id="2a6efa1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="vlt-animate-element elementor-element elementor-element-ec3682f elementor-widget elementor-widget-heading animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 300ms;" data-id="ec3682f" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">DIGITAL MARKETING</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0b85479 elementor-widget elementor-widget-spacer" data-id="0b85479" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"none"}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="vlt-animate-element elementor-element elementor-element-1328b3e elementor-widget elementor-widget-text-editor animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 300ms;" data-id="1328b3e" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Klaviyo<br>Email Marketing<br>Social Media Marketing<br>Paid Search Ads</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-bc227f4" data-id="bc227f4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="vlt-animate-element elementor-element elementor-element-8b01144 elementor-widget elementor-widget-heading animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 400ms;" data-id="8b01144" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">ECOMMERCE</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7174f68 elementor-widget elementor-widget-spacer" data-id="7174f68" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"none"}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="vlt-animate-element elementor-element elementor-element-98a3f0c elementor-widget elementor-widget-text-editor animate__animated animate__fadeInUpSm" data-animation-name="fadeInUpSm" style=" --animate-delay: 400ms;" data-id="98a3f0c" data-element_type="widget" data-settings="{"vlt_animated_widget_animation":"fadeInUpSm"}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Shopify<br>App Integrations<br>Google Analytics</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
 
-
-
-
-| GRAPHIC DESIGN                                  | WEB DESIGN                                            | DIGITL MARKETING                                                           | ECOMMERCE                                         |
-| ----------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------- |
-| Product Packaging
-Photography
-POP Cards | Shopify
-Theme Development
-Custom Web Graphics | Klaviyo
-Email Marketing
-Social Media Marketing
-Paid Search Ads | Shopify
-App Integrations
-Google Analytics |
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. 
+Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris.
