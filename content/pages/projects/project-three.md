@@ -133,9 +133,9 @@ bottomSections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+    quote: >
+      “Everybody should learn to program a computer, because it teaches you how
+      to think.”
     name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
