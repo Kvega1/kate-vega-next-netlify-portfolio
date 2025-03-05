@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/home-project-nexteon-1920x1080px.webp
+  url: /images/1f1517146612605.62c6fbfdd70ac.png
   altText: Project image
 metaTags:
   - type: MetaTag
