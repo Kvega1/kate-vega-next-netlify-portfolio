@@ -31,10 +31,10 @@ bottomSections:
       - type: FeaturedItem
         title: Graphic Design
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Logo design
+          Product Mockups
+          Infographics
         actions:
           - type: Button
             label: ''
