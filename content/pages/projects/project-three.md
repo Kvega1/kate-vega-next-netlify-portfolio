@@ -141,8 +141,6 @@ Brand identity design in-line with the current competitive landscape of emerging
 
 ![](/images/NEXTEON-Grapbic-Design-Event-Banners-KV.png)
 
-
-
 ## Product Mockups
 
 Software user interface mockups highlighting features and benefits of the products.
@@ -152,8 +150,6 @@ Software user interface mockups highlighting features and benefits of the produc
 ![](/images/475064146612605.62c5b9e7bd4d2.jpg)
 
 ![](/images/9fc898146612605.62c5b9e7bd03e.jpg)
-
-
 
 ## Web Design
 
@@ -172,10 +168,5 @@ A forward-focused and eco-friendly brand identity design for an aerospace tech s
 
 
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris.
