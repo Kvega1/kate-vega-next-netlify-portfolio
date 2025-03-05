@@ -115,7 +115,7 @@ bottomSections:
     actions: []
     colors: colors-d
     columns: 4
-    spacingX: 16
+    spacingX: 30
     spacingY: 16
     elementId: ''
     styles:
