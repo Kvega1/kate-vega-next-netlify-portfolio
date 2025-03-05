@@ -142,7 +142,6 @@ Brand identity design in-line with the current competitive landscape of emerging
 `<div style="">lorem ipsum dolor sit amet</div>`
 
 | ![](/images/a0eedf146612605.62b351ead6aca.jpg) | ![](/images/8b2eab146612605.62b351ead6646.jpg) | ![](/images/3bb3d3146612605.62b351ead5b48.jpg) | ![](/images/cfb0c2146612605.62b351ead5fbc.jpg) |
-| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
