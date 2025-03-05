@@ -137,7 +137,7 @@ bottomSections:
       “Everybody should learn to program a computer, because it teaches you how
       to think.”
     name: ''
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
