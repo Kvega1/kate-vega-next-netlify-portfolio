@@ -29,7 +29,7 @@ bottomSections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Graphic Design
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
