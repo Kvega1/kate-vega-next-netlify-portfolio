@@ -14,7 +14,7 @@ description: >-
   business relationships.
 featuredImage:
   type: ImageBlock
-  url: /images/home-project-nexteon-1920x1080px.webp
+  url: /images/1f1517146612605.62c6fbfdd70ac.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
