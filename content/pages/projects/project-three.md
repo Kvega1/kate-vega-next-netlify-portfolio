@@ -105,9 +105,8 @@ bottomSections:
         title: Brand Redesign
         subtitle: ''
         text: |
-          Logo design
-          Product Mockups
-          Infographics
+          Brand Identity Redesign
+          Team Collaboration
         elementId: ''
         styles:
           self:
