@@ -133,6 +133,12 @@ bottomSections:
       actions:
         justifyContent: flex-start
 ---
+Graphic Design
+
+Brand identity design in-line with the current competitive landscape of emerging tech in the aviation & aerospace industries. Brand and product logos, trade show and print materials.
+
+![](/images/ca0c3c146612605.62b359211258b.jpg)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
