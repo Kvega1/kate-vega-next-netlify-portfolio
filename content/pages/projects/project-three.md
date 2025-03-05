@@ -102,7 +102,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Graphic Design
+        title: Brand Redesign
         subtitle: ''
         text: |
           Logo design
