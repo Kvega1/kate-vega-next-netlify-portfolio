@@ -114,7 +114,7 @@ bottomSections:
             textAlign: left
     actions: []
     colors: colors-d
-    columns: 2
+    columns: 4
     spacingX: 16
     spacingY: 16
     elementId: ''
