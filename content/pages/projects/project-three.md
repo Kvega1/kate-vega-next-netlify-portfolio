@@ -137,11 +137,9 @@ Graphic Design
 
 Brand identity design in-line with the current competitive landscape of emerging tech in the aviation & aerospace industries. Brand and product logos, trade show and print materials.
 
-![](/images/ca0c3c146612605.62b359211258b.jpg)
+![](/images/ca0c3c146612605.62b359211258b.jpg)![](/images/NEXTEON-Grapbic-Design-Event-Banners-KV.png)
 
-`<div style="">lorem ipsum dolor sit amet</div>`
 
-| ![](/images/a0eedf146612605.62b351ead6aca.jpg) | ![](/images/8b2eab146612605.62b351ead6646.jpg) | ![](/images/3bb3d3146612605.62b351ead5b48.jpg) | ![](/images/cfb0c2146612605.62b351ead5fbc.jpg) |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
