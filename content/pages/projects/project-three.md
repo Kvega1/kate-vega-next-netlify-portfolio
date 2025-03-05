@@ -26,7 +26,7 @@ metaTags:
     content: Projects
 bottomSections:
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: Graphic Design
