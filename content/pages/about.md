@@ -6,7 +6,15 @@ sections:
     text: |+
       ## About
 
-    actions: []
+    actions:
+      - type: Link
+        label: Partners
+        altText: ''
+        url: '#partners_section'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Kate Vega - Portrait Image - Custom.jpg
@@ -131,6 +139,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    elementId: partners_section
   - type: DividerSection
     styles:
       self:
@@ -263,6 +272,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    elementId: contact_section
 metaTags: []
 colors: colors-a
 backgroundImage:
