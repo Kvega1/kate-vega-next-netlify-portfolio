@@ -17,8 +17,7 @@ sections:
       - type: Button
         label: Designed Version
         altText: ''
-        url: >-
-          https://acrobat.adobe.com/id/urn:aaid:sc:us:7ec613da-30b7-4288-bc5f-55d499bd0e1d
+        url: /2025-Kate-Vega-Ditial-Designer-Resume-031025.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
