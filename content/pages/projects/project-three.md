@@ -14,22 +14,185 @@ description: >-
   business relationships.
 featuredImage:
   type: ImageBlock
-  url: /images/home-project-nexteon-1920x1080px.webp
+  url: /images/1f1517146612605.62c6fbfdd70ac.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/home-project-nexteon-1920x1080px.webp
+  url: /images/1f1517146612605.62c6fbfdd70ac.png
   altText: Project image
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: Projects
+bottomSections:
+  - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: Graphic Design
+        subtitle: ''
+        text: |
+          Logo design
+          Product Mockups
+          Infographics
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Web Design
+        subtitle: ''
+        text: |
+          Webflow Site Development
+          UI/UX Design
+          Web Animations
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Digital Marketing
+        subtitle: ''
+        text: |
+          Blog
+          LinkedIn
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Brand Redesign
+        subtitle: ''
+        text: |
+          Brand Identity Redesign
+          Team Collaboration
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-d
+    columns: 4
+    spacingX: 30
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: QuoteSection
+    quote: >
+      “Everybody should learn to program a computer, because it teaches you how
+      to think.”
+    name: ''
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
 ---
+## Graphic Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Brand identity design in-line with the current competitive landscape of emerging tech in the aviation & aerospace industries. Brand and product logos, trade show and print materials.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](/images/ca0c3c146612605.62b359211258b.jpg)
+
+![](/images/NEXTEON-Grapbic-Design-Event-Banners-KV.png)
+
+## Product Mockups
+
+Software user interface mockups highlighting features and benefits of the products.
+
+![](/images/b37f6e146612605.62c6fbfdd78ae.jpg)
+
+![](/images/475064146612605.62c5b9e7bd4d2.jpg)
+
+![](/images/9fc898146612605.62c5b9e7bd03e.jpg)
+
+## Web Design
+
+Industry-specific Webflow site designed for aerospace technology startup. 
+[www.nexteon.aero](https://nexteon.aero)
+
+![](/images/03925e146612605.62b3592111898.jpg)
+
+## Brand Redesign
+
+A forward-focused and eco-friendly brand identity design for an aerospace tech startup with careful use of color to evoke trust and authority within a highly regulated industry.
+
+![](/images/c5c7b5146612605.62c5d1a6299a3.png)
+
+![](/images/ee94b1146612605.62b35921112ec.jpg)
+
+
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.

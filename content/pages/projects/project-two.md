@@ -14,12 +14,16 @@ description: >-
   conversions and increases sales.
 featuredImage:
   type: ImageBlock
-  url: /images/home-project-swell-skin-1920x1080px-1.webp
+  url: /images/d2a5fe146611323.62b34e2b76a6f (1).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/home-project-swell-skin-1920x1080px-1.webp
   altText: Project image
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: Projects
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
