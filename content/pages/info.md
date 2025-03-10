@@ -10,6 +10,63 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: HeroSection
+    title: Resume
+    subtitle: Share my CV with your hiring team!
+    actions:
+      - type: Button
+        label: Designed Version
+        altText: ''
+        url: >-
+          https://acrobat.adobe.com/id/urn:aaid:sc:us:7ec613da-30b7-4288-bc5f-55d499bd0e1d
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Text Version
+        altText: ''
+        url: >-
+          https://acrobat.adobe.com/id/urn:aaid:sc:us:05450f75-bb1b-4e9d-a1a8-48415211e1b6
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/2025-Kate-Vega-Ditial-Designer-Resume-031025.png
+      altText: 'Kate Vega - UI/UX Design, Digital Art Director'
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: DividerSection
     title: Divider
     elementId: ''
