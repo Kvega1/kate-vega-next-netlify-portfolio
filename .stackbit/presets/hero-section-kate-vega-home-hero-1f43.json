@@ -1,0 +1,70 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Kate Vega - Home Hero",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Hero"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Kate Vega",
+                "subtitle": "I’m a designer, developer, art director, photographer, content creator, digital marketing consultant with a unique blend of creative, business and technical experience.",
+                "text": null,
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Kate Vega - Portrait Image - Custom.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "altText of the image",
+                    "caption": "Caption of the image",
+                    "elementId": ""
+                },
+                "colors": "colors-f",
+                "backgroundSize": "full",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row-reverse"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/hero-section-kate-vega-home-hero-1f43.png"
+        }
+    ]
+}
