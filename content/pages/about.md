@@ -45,6 +45,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      Are you looking for someone specialized in UI/UX end-to-end design AND
+      development AND digital marketing who can deliver high-quality digital
+      solutions for your business? My unique blend of experience paired with a
+      diverse, multifaceted skill set make me an excellent candidate for your
+      organization.
   - type: DividerSection
     styles:
       self:
