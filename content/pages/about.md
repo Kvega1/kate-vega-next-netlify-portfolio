@@ -308,7 +308,7 @@ sections:
             fontWeight: 400
     colors: colors-a
     variant: variant-a
-    elementId: testimonials
+    elementId: '#testimonials_section'
     styles:
       self:
         height: auto
