@@ -288,12 +288,6 @@ sections:
           her!"
         name: Salvatore D.
         title: Naturopathic Doctor N.D.
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
