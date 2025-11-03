@@ -300,7 +300,7 @@ sections:
           and hard work ethic has helped grow my business through difficult
           times.”
         name: Kelli K.
-        title: Product Marketing Manager at Acme
+        title: President of Swell Skin
         image:
           type: ImageBlock
           url: /images/person-3.jpg
