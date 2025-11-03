@@ -286,7 +286,7 @@ sections:
           "I hired Kate for web design and found her work to be outstanding,
           precise, innovative and very professional! I definitely recommend
           her!"
-        name: John Doe
+        name: Salvatore D.
         title: CEO at Parks
         image:
           type: ImageBlock
