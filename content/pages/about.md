@@ -299,7 +299,7 @@ sections:
           “Kate is beyond your average marketing expert. Her skill, knowledge
           and hard work ethic has helped grow my business through difficult
           times.”
-        name: Johnna Doe
+        name: Kelli K.
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
