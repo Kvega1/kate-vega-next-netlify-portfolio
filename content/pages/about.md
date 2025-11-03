@@ -17,7 +17,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /about#testimonials_section
+        url: '#testimonials_section'
         showIcon: false
         icon: arrowRight
         iconPosition: right
