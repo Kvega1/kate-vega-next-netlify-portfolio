@@ -3,9 +3,8 @@ type: PageLayout
 title: About
 sections:
   - type: HeroSection
-    text: |+
-      ## About
-
+    text: |
+      About
     actions:
       - type: Link
         label: Partners
