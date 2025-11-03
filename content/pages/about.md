@@ -323,6 +323,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+    title: Testimonials
 metaTags: []
 colors: colors-a
 backgroundImage:
