@@ -58,6 +58,7 @@ sections:
       solutions for your business? My unique blend of experience paired with a
       diverse, multifaceted skill set make me an excellent candidate for your
       organization.
+    title: About
   - type: DividerSection
     styles:
       self:
