@@ -296,8 +296,9 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          “Kate is beyond your average marketing expert. Her skill, knowledge
+          and hard work ethic has helped grow my business through difficult
+          times.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
