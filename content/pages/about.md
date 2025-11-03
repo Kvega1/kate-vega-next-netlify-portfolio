@@ -287,7 +287,7 @@ sections:
           precise, innovative and very professional! I definitely recommend
           her!"
         name: Salvatore D.
-        title: CEO at Parks
+        title: Naturopathic Doctor N.D.
         image:
           type: ImageBlock
           url: /images/person-2.jpg
