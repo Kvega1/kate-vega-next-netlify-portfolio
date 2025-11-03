@@ -15,7 +15,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Testimonials
         altText: ''
         url: '#testimonials_section'
         showIcon: false
