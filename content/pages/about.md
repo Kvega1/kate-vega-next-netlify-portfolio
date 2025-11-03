@@ -301,12 +301,6 @@ sections:
           times.”
         name: Kelli K.
         title: President of Swell Skin
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
