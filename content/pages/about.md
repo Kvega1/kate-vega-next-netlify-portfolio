@@ -45,6 +45,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      Are you looking for someone specialized in UI/UX end-to-end design AND
+      development AND digital marketing who can deliver high-quality digital
+      solutions for your business? My unique blend of experience paired with a
+      diverse, multifaceted skill set make me an excellent candidate for your
+      organization.
   - type: DividerSection
     styles:
       self:
@@ -273,6 +279,51 @@ sections:
       text:
         textAlign: left
     elementId: contact_section
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "I hired Kate for web design and found her work to be outstanding,
+          precise, innovative and very professional! I definitely recommend
+          her!"
+        name: Salvatore D.
+        title: Naturopathic Doctor N.D.
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Kate is beyond your average marketing expert. Her skill, knowledge
+          and hard work ethic has helped grow my business through difficult
+          times.”
+        name: Kelli K.
+        title: President of Swell Skin
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-a
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 metaTags: []
 colors: colors-a
 backgroundImage:
