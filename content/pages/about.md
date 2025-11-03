@@ -4,7 +4,7 @@ title: About
 sections:
   - type: HeroSection
     text: |
-      About
+      ## About
     actions:
       - type: Link
         label: Partners
