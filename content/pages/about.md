@@ -283,8 +283,9 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+          "I hired Kate for web design and found her work to be outstanding,
+          precise, innovative and very professional! I definitely recommend
+          her!"
         name: John Doe
         title: CEO at Parks
         image:
